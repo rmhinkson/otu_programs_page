@@ -1,0 +1,564 @@
+
+{
+    "programs": {
+    	"title": "Programs",
+        "description": "Ontario Tech University offers a diverse array of undergraduate and graduate programs. New programs are currently being developed, so check back often to see what&#8217;s new. If you have questions about the programs we offer, please contact us at connect@ontariotechu.ca.",
+		"program": [
+                                                        			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Accounting",                 "link": "business-and-information-technology/accounting.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Our&#160;Commerce&#160;program&apos;s&#160;Accounting major provides excellent preparation for an exciting career as a Chartered Professional Accountant (CPA)."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Accounting (Graduate Diploma)",                 "link": "business-and-information-technology/accounting-graduate-diploma.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The Graduate Diploma in Accounting is a professional program accredited by the Chartered Professional Accountants (CPA) of Ontario."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Commerce",                 "link": "business-and-information-technology/commerce.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "The Bachelor of Commerce (Honours) (BCom) program will enhance your understanding of key business functions and current systems technologies, preparing you to succeed in a specialized field such as accounting, finance, marketing, or organizational and human resources management."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Commerce - Advanced Entry",                 "link": "business-and-information-technology/commerce-pathways-program-advanced-entry.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college advanced diploma in Business Administration with a minimum mid-B average."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Commerce - Bridge (in-person)",                 "link": "business-and-information-technology/commerce-pathways-program-bridge.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: Any Ontario college diploma or Ontario college advanced diploma (or equivalent) with a minimum mid-B average."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Finance",                 "link": "business-and-information-technology/finance.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "As a Commerce student pursuing the Finance major, you will be prepared for a successful career in the financial service industry. Graduates are prepared to write the&#160;Canadian Securities Institute (CSI) Global Education Inc. exam and achieve the professional designation of&#160;Chartered Financial Analyst."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Game Development and Entrepreneurship",                 "link": "business-and-information-technology/information-technology-game-development-and-entrepreneurship-specialization.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Game Development and Entrepreneurship is designed to provide you with a wide range of game design and programming expertise. Successful students develop their knowledge and skills in a diverse team environment and learn to work with programmers, artists and designers to create innovative products that push the medium to its limits."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Networking and Information Technology Security",                 "link": "business-and-information-technology/information-technology-networking-and-information-technology-security-specialization.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Planning, designing, installing, operating, managing and securing IT infrastructure are essential skills for an IT&#8209;related career. Learn these skills and more using leading-edge equipment and laboratories to apply core concepts to technical topics."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Information Technology - Game Development and Entrepreneurship - Bridge",                 "link": "business-and-information-technology/information-technology-pathways-program-game-development-and-entrepreneurship-specialization-bridge.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college diploma or Ontario college advanced diploma (or equivalent) in Animation, Game Art and Design, Game Development, Software Engineering Technology &#8211; Interactive Gaming or a related program with a minimum mid-B average."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Information Technology Security - Bridge",                 "link": "business-and-information-technology/information-technology-pathways-program-networking-and-information-technology-security-bridge.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college diploma or Ontario college advanced diploma (or equivalent) in Computer Systems Technician or related program with a minimum mid-B average."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Networking and Information Technology Security - Advanced Entry",                 "link": "business-and-information-technology/information-technology-pathways-program-networking-and-information-technology-security-direct-entry.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college advanced diploma in Computer Systems Technology with a minimum mid-B average. Program must contain a sufficient amount of Cisco-certified content."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Information Technology Security (Master's program)",                 "link": "business-and-information-technology/information-technology-security-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The master&apos;s program in Information Technology Security is one of the first of its kind in Canada and one of few specialized IT security graduate degree programs available in the world."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Information Technology - Technology Management",                 "link": "business-and-information-technology/information-technology-technology-management.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "The Bachelor of Information Technology (Honours) in Technology Management will develop student skills in data analytics, information systems, change management, and data security. Students completing this program will qualify for the Certified Business Technology Manager (CBTM) designation from Canadian Coalition for Tomorrow&apos;s ICT (Information Communication Technology) Skills (CCICT), once they obtain sufficient work experience."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Marketing",                 "link": "business-and-information-technology/marketing.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "This Commerce&#160;major focuses on how leading companies succeed in understanding and engaging customers."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Organizational Behaviour and Human Resources Management",                 "link": "business-and-information-technology/organizational-behaviour-and-human-resources-management.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "This&#160;Commerce major will help you develop the practical skills and knowledge required to transform any organization&#8217;s most important asset&#8212;its human capital&#8212;into a sustainable competitive advantage."
+			},		                                                			{
+				"faculty": "Faculty of Business and Information Technology",
+                "title": "Technology Management (Bachelor of Commerce)",                 "link": "business-and-information-technology/technology-management-commerce.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "The Commerce program&apos;s Technology Management major will develop your skills in&#160;business innovation, enterprise systems, data analytics,&#160;information technology,&#160;change management, and&#160;data security."
+			},		                                                			{
+				"faculty": "Faculty of Education",
+                "title": "Concurrent Education",                 "link": "education/concurrent-education.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "If you are interested in pursuing a career in education, Concurrent Education allows you to apply directly for advanced acceptance into a Consecutive Education program. Concurrent Education is available for the Primary/Junior program and the Intermediate/Senior program."
+			},		                                                			{
+				"faculty": "Faculty of Education",
+                "title": "Designing Adult Learning for the Digital Age  - Undergraduate Diploma",                 "link": "education/designing-adult-learning-for-the-digital-age.php",
+                "program_type": [            "Undergraduate",        "Online"            ], 
+                "summary": "Admission requirements: Any Ontario college diploma or Ontario college advanced diploma (or equivalent) with a minimum B- average."
+			},		                                                			{
+				"faculty": "Faculty of Education",
+                "title": "Education and Digital Technologies (Graduate Diploma - Online program)",                 "link": "education/education-and-digital-technologies-graduate-diploma.php",
+                "program_type": [            "Graduate",        "Online"            ], 
+                "summary": "The Graduate Diploma in Education and Digital Technologies is an online program that provides educators with an alternative form of professional development when they do not wish to do a full master&apos;s degree."
+			},		                                                			{
+				"faculty": "Faculty of Education",
+                "title": "Education, Consecutive program, Intermediate/Senior",                 "link": "education/education-consecutive-program-intermediate-senior.php",
+                "program_type": [            "Undergraduate",        "Professional"            ], 
+                "summary": "The Faculty of Education offers a 16-month consecutive program to prepare Intermediate-Senior (I/S) teachers. The emphasis on technology in learning and teaching is a defining element of the university&#8217;s Bachelor of Education program."
+			},		                                                			{
+				"faculty": "Faculty of Education",
+                "title": "Education, Consecutive program, Primary/Junior",                 "link": "education/education-consecutive-program-primary-junior.php",
+                "program_type": [            "Undergraduate",        "Professional"            ], 
+                "summary": "The Faculty of Education offers a 16-month consecutive program in the preparation of Primary/Junior teachers. The emphasis on technology in learning and teaching is a defining element of Ontario Tech&apos;s Bachelor of Education program."
+			},		                                                			{
+				"faculty": "Faculty of Education",
+                "title": "Education (Master of Arts - Online program)",                 "link": "education/education-master-of-arts-program.php",
+                "program_type": [            "Graduate",        "Online"            ], 
+                "summary": "The graduate programs in Education are designed specifically to prepare future leaders and specialists in learning and technology."
+			},		                                                			{
+				"faculty": "Faculty of Education",
+                "title": "Education (Master of Education - online program)",                 "link": "education/education-master-of-education-program.php",
+                "program_type": [            "Graduate",        "Online"            ], 
+                "summary": "The Master of Education is an interactive online program that allows you to work with leading-edge technology and to be part of an international, dynamic, collaborative learning environment."
+			},		                                                			{
+				"faculty": "Faculty of Education",
+                "title": "Educational Studies and Digital Technology - Advanced Entry",                 "link": "education/educational-studies-and-digital-technology.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree",        "Online"            ], 
+                "summary": "Educational Studies and Digital Technology emphasizes real-world, inquiry-based learning to provide you with the best opportunities to develop job-ready skills in training and instruction using digital technology."
+			},		                                                			{
+				"faculty": "Faculty of Education",
+                "title": "Teaching English to Speakers of Other Languages (TESOL)",                 "link": "education/teaching-english-to-speakers-of-other-languages-tesol.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Graduates of this post-baccalaureate undergraduate diploma program will be prepared to teach English to adults both in Canada (in privately and publicly-funded institutions) as well as in a variety of institutions overseas."
+			},		                                                			{
+				"faculty": "Faculty of Energy Systems and Nuclear Science",
+                "title": "Health Physics and Radiation Science",                 "link": "energy-systems-and-nuclear-science/health-physics-and-radiation-science.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "The four-year Honours Bachelor of Science in Health Physics and Radiation Science program provides an advanced science curriculum with a strong emphasis on the safety aspects of ionizing radiations."
+			},		                                                			{
+				"faculty": "Faculty of Energy Systems and Nuclear Science",
+                "title": "Nuclear Design Engineering (Graduate Diploma)",                 "link": "energy-systems-and-nuclear-science/nuclear-design-engineering-graduate-diploma.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "This graduate diploma consists of four specific courses related to nuclear power plant design, plant safety, design process and procedures, and design for operations and maintenance."
+			},		                                                			{
+				"faculty": "Faculty of Energy Systems and Nuclear Science",
+                "title": "Nuclear Engineering",                 "link": "energy-systems-and-nuclear-science/nuclear-engineering.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Our Nuclear Engineering program is designed to present all aspects of the nuclear fuel cycle: from mining to plant operation and waste management."
+			},		                                                			{
+				"faculty": "Faculty of Energy Systems and Nuclear Science",
+                "title": "Nuclear Engineering (Doctoral program)",                 "link": "energy-systems-and-nuclear-science/nuclear-engineering-doctoral-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The main objective of this doctoral program is to prepare graduates for a career in research and/or teaching in academia or industry; leadership positions that require problem solving skills with highly specialized knowledge often in interdisciplinary fields; or positions involving management of finances, projects and people."
+			},		                                                			{
+				"faculty": "Faculty of Energy Systems and Nuclear Science",
+                "title": "Nuclear Engineering (Master's program)",                 "link": "energy-systems-and-nuclear-science/nuclear-engineering-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The Nuclear Engineering graduate programs encompass the nuclear power industry, from fuel manufacture to radioactive waste disposal, and the many and varied applications of radiation in industrial and medical disciplines."
+			},		                                                			{
+				"faculty": "Faculty of Energy Systems and Nuclear Science",
+                "title": "Nuclear Technology (Graduate Diploma)",                 "link": "energy-systems-and-nuclear-science/nuclear-technology-graduate-diploma.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "Six graduate diplomas in Nuclear Technology are offered based on areas of sub-specialization within the fields of Nuclear Power and Radiological and Health Physics."
+			},		                                                			{
+				"faculty": "Faculty of Energy Systems and Nuclear Science",
+                "title": "Sustainable Energy Systems",                 "link": "energy-systems-and-nuclear-science/sustainable-energy-systems.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "The Bachelor of Technology (BTech) in Sustainable Energy Systems program ensures graduates possess a deep familiarity with the technologies associated with energy systems and various technological options, as well as the skills to continually assess new energy technologies and changes to energy systems."
+			},		                                                			{
+				"faculty": "Faculty of Energy Systems and Nuclear Science",
+                "title": "Sustainable Energy Systems - Bridge",                 "link": "energy-systems-and-nuclear-science/sustainable-energy-systems-bridge.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: Ontario College Advanced Diploma (or equivalent) in Chemical Engineering Technology* or Mechanical Engineering Technology,* with a minimum mid-70s average."
+			},		                                                			{
+				"faculty": "Faculty of Energy Systems and Nuclear Science",
+                "title": "UNENE Graduate Diploma in Nuclear Engineering",                 "link": "energy-systems-and-nuclear-science/unene-graduate-diploma-in-nuclear-engineering.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The UNENE Graduate Diploma in Nuclear Engineering is offered jointly between Ontario Tech University and McMaster University. The graduate diploma will allow students to broaden their knowledge and enhance their core skills without the commitment of a full master&#8217;s degree."
+			},		                                                			{
+				"faculty": "Faculty of Energy Systems and Nuclear Science",
+                "title": "UNENE MEng in Nuclear Engineering",                 "link": "energy-systems-and-nuclear-science/unene-meng-in-nuclear-engineering.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The UNENE master&apos;s program is designed for the working professional, providing engineers the enhanced knowledge, tools, technology as well as business and management skills necessary to keep them at the forefront of their profession."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Automotive Engineering",                 "link": "engineering-and-applied-science/automotive-engineering-automotive-engineering-and-management.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "The only accredited program of its kind in Canada, our program prepares engineers to meet the need for advancements in the automotive sector by accelerating research and the development of alternative technologies, such as electric and fuel-cell driven vehicles."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Automotive Engineering (Master's program)",                 "link": "engineering-and-applied-science/automotive-engineering-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The master&apos;s programs in Automotive Engineering provide students with a detailed understanding of advanced technologies and processes related to automotive systems."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Comprehensive Engineering",                 "link": "engineering-and-applied-science/comprehensive-engineering.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "This program provides students with an option to pursue their first year of studies in a Comprehensive Bachelor of Engineering (Honours) degree before applying to change into another engineering program in Year 2.&#160;"
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Electrical and Computer Engineering (Doctoral program)",                 "link": "engineering-and-applied-science/electrical-and-computer-engineering-doctoral-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The doctoral program in Electrical and Computer Engineering aims to furnish students with the highest possible level of knowledge and scholarship in their areas of expertise."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Electrical and Computer Engineering (Master's program)",                 "link": "engineering-and-applied-science/electrical-and-computer-engineering-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "This master&apos;s program&#160;allows a student to study in all major areas associated with electrical, computer and software systems engineering. These areas include electronics, intelligent systems, communications, control, biomedical, power electronics, power generation, software engineering, mobile systems and embedded software systems."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Electrical Engineering",                 "link": "engineering-and-applied-science/electrical-engineering-electrical-engineering-and-management.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "The Electrical Engineering program focuses on the design and development of electrical and computer technologies, and their component parts. The integration of electrical components into complex systems is also studied. You also have the option to specialize in Smart Grid."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Engineering Management (Graduate Diploma)",                 "link": "engineering-and-applied-science/engineering-management-graduate-diploma.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The Graduate Diploma in Engineering Management is ideal for students who are interested in graduate-level courses in business and management practices within an engineering context, but do not wish to commit to a full master&apos;s degree."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Engineering Management (Master's program)",                 "link": "engineering-and-applied-science/engineering-management-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The Master of Engineering Management program allows students to study topics in planning, allocating resources, and directing and controlling activities that have an engineering or technological component."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Manufacturing Engineering",                 "link": "engineering-and-applied-science/manufacturing-engineering-manufacturing-engineering-and-management.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "The only accredited program of its kind in Canada, our program is all about the design and improvement of high&#8209;tech systems for the production and manufacturing of products. This includes the development and application of advanced technologies such as robotics, automation, new materials and intelligent controls."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Mechanical Engineering (Doctoral program)",                 "link": "engineering-and-applied-science/mechanical-engineering-doctoral-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "Focus areas of research include mechatronics and manufacturing, as well as energy and thermofluids engineering. Automotive systems are also a major focus, as this discipline relates to many applications in mechanical engineering."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Mechanical Engineering (Master's Program)",                 "link": "engineering-and-applied-science/mechanical-engineering-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "This master&apos;s program allows students to either study the broad areas within Mechanical Engineering or focus in one of the following fields: Design, Energy and Thermofluids Engineering, or Mechatronics and Manufacturing Engineering."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Mechanical Engineering",                 "link": "engineering-and-applied-science/mechanical-engineering-mechanical-engineering-and-management.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Mechanical engineering overlaps with other engineering disciplines &#8211; electrical, chemical, civil, computer and software, to name a few. It is interdisciplinary and one of the broadest engineering disciplines."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Mechatronics Engineering",                 "link": "engineering-and-applied-science/mechatronics-engineering.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "The Mechatronics Engineering program is an interdisciplinary engineering field. It integrates mechanical and electrical systems with real-time control, combining hardware with software to produce new devices such as consumer products, medical devices, high-tech automobile systems and robots."
+			},		                                                			{
+				"faculty": "Faculty of Engineering and Applied Science",
+                "title": "Software Engineering",                 "link": "engineering-and-applied-science/software-engineering-software-engineering-and-management.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "The Software Engineering program&#160;focuses on the analysis, design, development and testing of reliable and secure software systems, as well as the integration of software into complex systems and the timely and cost-effective delivery of software systems that meet changing requirements."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Allied Health Sciences - Bridge",                 "link": "health-sciences/allied-health-sciences.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree",        "Online"            ], 
+                "summary": "Admission requirements: A diploma from a public Canadian or recognized international college with a minimum B- average in an allied health discipline."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Health Sciences",                 "link": "health-sciences/health-science.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "The increasing complexity of health sciences and the health-care industry has placed a growing importance on the skills required of health-care professionals. You will acquire the foundations for excellence in clinical practice along with the lifelong learning, research, teamwork and leadership skills essential for a successful career in the health field."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Health Sciences (Master's program)",                 "link": "health-sciences/health-sciences-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The master&apos;s program in Health Sciences focuses on providing students with opportunities to develop the knowledge and skills required to conduct high-quality research that culminates in a master&apos;s thesis."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Health Sciences (Doctoral program)",                 "link": "health-sciences/health-sciences-phd.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The doctoral program in Health Sciences focuses on providing students with opportunities to develop the knowledge and skills required to conduct high-quality research that culminates into a PhD research thesis."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Kinesiology",                 "link": "health-sciences/kinesiology.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Kinesiology focuses on human movement and optimizing performance and quality of life. This comprehensive program covers the behavioural, biomechanical, physiological and psychosocial aspects of human health and performance. Knowledge is applied to several settings including rehabilitation, adapted physical activity, sport, exercise and general health in people of varying abilities. You will be prepared for provincial and national professional examinations."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Kinesiology Advanced Entry - OTA and PTA",                 "link": "health-sciences/kinesiology-advanced-entry-ota-pta.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college diploma (or equivalent) in&#160;Occupational Therapy Assistant (OTA) and Physiotherapy Assistant (PTA)&#160;with a minimum B average."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Kinesiology Advanced Entry &#8211; Fitness and Health Promotion",                 "link": "health-sciences/kinesiology-pathways.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college diploma (or equivalent) in Fitness and Health Promotion with a minimum B average.&#160;"
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Medical Laboratory Science",                 "link": "health-sciences/medical-laboratory-science.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Modern health care has become increasingly dependent on complex laboratory tests, the results of which aid in the diagnosis, monitoring and treatment of disease. You will gain fundamental knowledge and skills in biological, physical and health sciences."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Medical Laboratory Science - Bridge",                 "link": "health-sciences/medical-laboratory-science-bridge.php",
+                "program_type": [            "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college advanced diploma from Durham College or Fleming College in Biotechnology-Advanced with a minimum B+ average."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Nursing - Collaborative",                 "link": "health-sciences/nursing-collaborative.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Our program prepares professional nurses who are committed to excellence and innovation in assessing and meeting the nursing needs of society. You will also learn about nursing practice and the human experience of health, illness and healing."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Nursing (MScN)",                 "link": "health-sciences/nursing-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The Master of Science in Nursing (MScN) program focuses on professional practice leadership and will prepare graduates to contribute to an increasingly complex health-care sector by providing an education that includes mentorship, interdisciplinary opportunities and experiential learning through research, project and class assignments."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Nursing - Post RPN (Oshawa)",                 "link": "health-sciences/nursing-post-rpn.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college diploma (or equivalent) in Practical Nursing with a minimum A- average."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Nursing - Post RPN (Barrie)",                 "link": "health-sciences/nursing-post-rpn-barrie.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college diploma (or equivalent) in Practical Nursing with a minimum A- average."
+			},		                                                			{
+				"faculty": "Faculty of Health Sciences",
+                "title": "Work Disability Prevention (Graduate Diploma)",                 "link": "health-sciences/work-disability-prevention-graduate-diploma.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "This graduate diploma is offered in collaboration with the Canadian Memorial Chiropractic College and focuses on the uptake and implementation of new knowledge for practicing professionals working in health-related fields."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Applied and Industrial Mathematics",                 "link": "science/applied-and-industrial-mathematics-regular-and-co-op.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Mathematics is a key component of problem solving and the dominant language of natural science. You will learn concepts, principles, qualitative and quantitative methods, and innovative problem-solving skills. Additionally, you will gain valuable experience by means of relevant, work-related research projects."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Applied Bioscience (Doctoral program)",                 "link": "science/applied-bioscience-doctoral-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The primary objective of the PhD in Applied Bioscience program is to train students to become high-quality researchers at the interface between chemistry and biology."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Applied Bioscience (Master's program)",                 "link": "science/applied-bioscience-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "Applied Bioscience is a unique collaborative program offered by an interdisciplinary network of chemists, biologists and health scientists."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Applied Biotechnology",                 "link": "science/applied-biotechnology.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Biotechnology is a rapidly growing area with many applications in health, agriculture and industry. Students pursuing the Applied Biotechnology specialization will&#160;gain a strong understanding of cell and molecular biology, microbiology, immunology, biochemistry and physiology."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Astrophysics",                 "link": "science/astrophysics.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "As a specialization within the Physics program, you will explore the current state of knowledge in astrophysics, examine new and emerging theories, and utilize modern techniques to analyze and solve problems in astronomy and astrophysics."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Biological Science - Advanced Entry",                 "link": "science/biological-science-advanced-entry.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college advanced diploma (or equivalent) in Biotechnology-Advanced with a minimum mid-B average."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Biological Science",                 "link": "science/biological-science-biological-science-and-management-regular-and-co-op.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Biological science is the study of life at its most fundamental level. The foundational areas of cell biology, genetics and molecular biology, physiology, biochemistry and developmental biology are mastered in this program."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Chemical Biology",                 "link": "science/chemical-biology.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Chemical biology, at the interface of chemistry and biology, is a rapidly growing interdisciplinary area in science. Through the synthesis and use of small molecules, probes, or chemically&#8209;modified biological macromolecules, chemistry is applied to help answer questions of biological importance."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Chemistry",                 "link": "science/chemistry-regular-and-co-op.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "From the experimental to the theoretical, our program exposes you to all major fields of chemistry: physical, analytical, organic, inorganic and biochemistry."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Computer Science - Advanced Entry",                 "link": "science/computer-science-diploma-to-degree.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college advanced diploma in Computer Programmer Analyst or Computer Engineering Technology with a minimum mid-B average. Programs from Durham College, George Brown College and Humber College pre-approved."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Computer Science (Doctoral program)",                 "link": "science/computer-science-doctoral-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The PhD program in Computer Science focuses on applied research with the aim of producing highly trained researchers for industry and academia. There are four fields in the program: Digital Media, Information Science, Networks and IT Security, and Software Design."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Computer Science (Master's program)",                 "link": "science/computer-science-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The Computer Science master&apos;s program is broad based and covers concepts from engineering, science and business with the aim of producing high-quality software professionals."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Computer Science",                 "link": "science/computer-science-regular-and-co-op.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Computer science is the study of the theoretical foundations of information and computation and their implementation and application in computer systems. Our program explores concepts, principles, qualitative and quantitative methods, innovative problem-solving skills, and practical applications."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Data Science",                 "link": "science/data-science.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Data scientists who are capable of turning vast quantities of data into insight are highly sought after by a variety of industries. You will develop the necessary problem-solving, critical thinking, analytical, computational and communication skills to meet employers&#8217; needs."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Environmental Biology",                 "link": "science/environmental-biology.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Environmental Biology is a specialization in our Biological Science program that prepares students for leadership roles in the environmental sector. You will learn how to design, research, analyze and implement new approaches to environmental problems, in addition to gaining fundamental knowledge in the natural sciences."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Forensic Science",                 "link": "science/forensic-science.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Our program is fully accredited by the Forensic Science Education Program Accreditation Commission recognizing that our curriculum, labs, faculty and research have met the rigorous standards set by the American Academy of Forensic Sciences."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Integrated Mathematics and Computer Science",                 "link": "science/integrated-mathematics-and-computer-science.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Integrated Mathematics and Computer Science is a new program at Ontario Tech that focuses on where mathematics and computer science converge."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Integrative Neuroscience",                 "link": "science/integrative-neuroscience.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Integrative Neuroscience offers a unique interdisciplinary approach to the study of neuroscience, with an emphasis on strong foundational science and practical laboratory skills."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Life Sciences",                 "link": "science/life-sciences-regular-and-co-op.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "With specialized courses such as Neuroscience and Human Anatomy, you will gain a detailed understanding of the structure and functioning of the human body. This program provides an excellent basis for writing the Medical College Admission Test&#174; (MCAT&#174;) exam and for satisfying course requirements for applying to medical school."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Materials Science (Doctoral program)",                 "link": "science/materials-science-doctoral-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The PhD in Materials Science program is jointly offered by Ontario Tech University and Trent University. Courses are taught by faculty from both institutions via traditional face-to-face instruction, augmented by the collaborative implementation of lectures and research meetings at a distance."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Materials Science (Master's program)",                 "link": "science/materials-science-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "Materials Science is a broad multidisciplinary area of science that involves the understanding and prediction of the properties of matter. The program is offered in collaboration with Trent University."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Modelling and Computational Science (Doctoral program)",                 "link": "science/modelling-and-computational-science-doctoral-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The PhD in Modelling and Computational Science program, led by an interdisciplinary faculty team, is at the confluence of mathematics, science and computer science and is built on a solid foundation of high-quality research that is relevant to the needs of society."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Modelling and Computational Science (Master's program)",                 "link": "science/modelling-and-computational-science-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The Modelling and Computational Science master&apos;s program, led by an interdisciplinary faculty team, is at the confluence of mathematics, science and computer science and teaches students how to use mathematical modelling when studying real-world phenomena."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Nanotechnology and Clean Energy",                 "link": "science/nanotechnology-and-clean-energy.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "The Nanotechnology and Clean Energy specialization within the&#160;Physics program&#160;is designed to meet the urgent demand for graduates with the knowledge and skills to address global issues of escalating energy consumption and declining resources."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Pharmaceutical Chemistry",                 "link": "science/pharmaceutical-chemistry.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Pharmaceutical Chemistry is a specialization of our Chemistry program. The Pharmaceutical Chemistry program provides an integrated basic grounding in chemical science fundamental to the pharmaceutical industry."
+			},		                                                			{
+				"faculty": "Faculty of Science",
+                "title": "Physics",                 "link": "science/physics-regular-and-co-op.php",
+                "program_type": [            "Undergraduate",        "Co-op or Internship"            ], 
+                "summary": "Force, motion, light, sound, electricity, magnetism and the structure of matter lie at the heart of natural sciences and technology. You will benefit from exposure to cutting&#8209;edge research in renewable energy, semiconductor devices, microelectronics, materials science, biophysics, computational physics and astrophysics."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Communication and Digital Media Studies",                 "link": "social-science-and-humanities/communication.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "The Communication and Digital Media Studies program will help you develop 21st-century skills as you explore the economic, political and cultural drivers and impacts of communications and digital media in society."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Communication and Digital Media Studies - Advanced Entry",                 "link": "social-science-and-humanities/communication-advanced-entry.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college diploma or Ontario college advanced diploma (or equivalent) in Advertising and Marketing Communications Management, Broadcast and Contemporary Media, Contemporary Web Design, Digital Photography, Digital Video Production, Interactive Media Design, Journalism, Public Relations or Graphic Design."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Communication and Digital Media Studies - General Arts and Science Transfer",                 "link": "social-science-and-humanities/communication-and-digital-media-studies-gas-transfer.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college certificate from Durham College in General Arts and Science-Liberal Arts Ontario Tech Transfer with a minimum B+ average."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Criminology and Justice",                 "link": "social-science-and-humanities/criminology-and-justice.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Our program explores and critically analyzes criminological and sociological theories of why people commit crime. It also examines how societies define crime and who is considered a criminal."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Criminology and Justice - Advanced Entry",                 "link": "social-science-and-humanities/criminology-and-justice-advanced-entry.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college diploma or Ontario college advanced diploma (or equivalent) in Child and Youth Care, Community and Justice Services, Customs Border Services, Police Foundations or Protection Security and Investigation."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Criminology and Justice - General Arts and Science Transfer",                 "link": "social-science-and-humanities/criminology-and-justice-gas-transfer.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college certificate from Durham College in General Arts and Science-Liberal Arts Ontario Tech Transfer with a minimum B+ average."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Criminology and Social Justice (Doctoral Program)",                 "link": "social-science-and-humanities/criminology-and-social-justice-doctoral-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The PhD in Criminology and Social Justice combines disciplinary and specialized study in Criminology, study in qualitative research methods and statistics, and applied learning experiences to prepare students to work in a variety of settings."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Criminology (Master's program)",                 "link": "social-science-and-humanities/criminology-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The Criminology master&apos;s program provides students with a solid foundation of advanced knowledge in criminological theory, sophisticated research methodologies, complex quantitative and qualitative applications and contemporary substantive issues in criminology."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Forensic Psychology",                 "link": "social-science-and-humanities/forensic-psychology.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Forensic psychology contributes to increased public safety by improving our understanding and support of victims, witnesses and offenders as they move through the criminal justice system from the initial criminal investigation, to their experiences with the court, to rehabilitation and reintegration into the community."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Forensic Psychology - Advanced Entry",                 "link": "social-science-and-humanities/forensic-psychology-advanced-entry.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements:&#160;An Ontario college diploma or Ontario college advanced diploma (or equivalent) in Behavioural Sciences, Child and Youth Care, Community and Justice Services, Police Foundations, Protection Security and Investigation, or Social Service Worker."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Forensic Psychology (Doctoral program)",                 "link": "social-science-and-humanities/forensic-psychology-doctoral-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The PhD in Forensic Psychology combines disciplinary and specialized study in Forensic Psychology, study in research methods and statistics, and applied learning experiences to prepare students to work in a variety of settings."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Forensic Psychology - General Arts and Science Transfer",                 "link": "social-science-and-humanities/forensic-psychology-gas-transfer.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college&#160;certificate from Durham College in General Arts and Science - Liberal Arts Ontario Tech Transfer - Forensics with a minimum B+ average."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Forensic Psychology (Master's program)",                 "link": "social-science-and-humanities/forensic-psychology-masters-program.php",
+                "program_type": [            "Graduate"            ], 
+                "summary": "The Master of Science program in Forensic Psychology combines disciplinary and specialized study in the field, study in research methods and statistics, and applied learning experiences to prepare students to work in a variety of settings."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Legal Studies",                 "link": "social-science-and-humanities/legal-studies.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Legal Studies examines law&#8217;s defining features, forms and functions, and critically engages with how law interacts with and responds to social, political and technological change. The program demonstrates a commitment to promoting justice by cultivating sensitivity to diversity and exploring what it means to become an active, socially responsible citizen."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Legal Studies - Advanced Entry",                 "link": "social-science-and-humanities/legal-studies-advanced-entry.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college diploma or Ontario college advanced diploma (or equivalent) in Court and Tribunal Administration, Law Clerk or Paralegal."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Legal Studies - GAS transfer",                 "link": "social-science-and-humanities/legal-studies-gas-transfer.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "This program provides graduates of an Ontario college certificate program in General Arts and Science the opportunity to apply for direct admission into the second year of Legal Studies."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Liberal Studies",                 "link": "social-science-and-humanities/liberal-studies.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "The program is designed to equip students with the skills and knowledge necessary to adapt to and thrive in a dynamic employment environment."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Political Science",                 "link": "social-science-and-humanities/political-science.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Our program emphasizes strategies for creating sustainable community development policies, which target improved quality of life and address important community justice and planning issues.&#160;"
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Political Science - Advanced Entry",                 "link": "social-science-and-humanities/political-science-advanced-entry.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college diploma or Ontario college advanced diploma (or equivalent) in Behavioural Sciences,&#160;Child and Youth Care, Developmental Services Worker, Environmental Technology, Paralegal, Police Foundations, Protection, Security and Investigation, or Social Service Worker."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Political Science - General Arts and Science Transfer",                 "link": "social-science-and-humanities/political-science-gas-transfer.php",
+                "program_type": [            "Undergraduate",        "Pathways Diploma-to-Degree"            ], 
+                "summary": "Admission requirements: An Ontario college&#160;certificate from Durham College in General Arts and Science-Liberal Arts Ontario Tech Transfer with a minimum B- average."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Psychology (Bachelor of Arts)",                 "link": "social-science-and-humanities/psychology-bachelor-of-arts.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Students enrolled in the Bachelor of Arts in Psychology program will receive a core first year of social science courses with their second year reserved for foundational psychology courses."
+			},		                                                			{
+				"faculty": "Faculty of Social Science and Humanities",
+                "title": "Psychology (Bachelor of Science)",                 "link": "social-science-and-humanities/psychology-bachelor-of-science.php",
+                "program_type": [            "Undergraduate"            ], 
+                "summary": "Students enrolled in the Bachelor of Science in Psychology program will receive a core first year of natural science courses, including biology, chemistry, physics, math and psychology with their second year reserved for foundational psychology courses."
+			}		        ]
+	}
+}

@@ -336,7 +336,7 @@ const result_html = fits =>
       .map(
         fit => `
      <div class="row">
-${fit.title} ${fit.faculty} ${fit.summary} ${fit.link}
+${fit.title}  ${fit.faculty} ${fit.summary} ${fit.link}
 
    </div>
      `
@@ -359,4 +359,4 @@ set_dropdown_default("program","Select a program");
 //search box
 
 var search=document.getElementById('searchfield')
-document.addEventListener('input', () => searchprograms(search.value));
+//document.addEventListener('input', () => searchprograms(search.value));
